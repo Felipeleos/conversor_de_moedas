@@ -1,6 +1,6 @@
 # Conversor de Moedas - CLI (Java + Maven)
 
-Projeto pronto para enviar ao GitHub. Conversor de moedas por terminal que consulta uma API de taxas de câmbio (por padrão `exchangerate.host`, que não necessita de chave).
+Conversor de moedas por terminal que consulta uma API de taxas de câmbio (por padrão `exchangerate.host`, que não necessita de chave).
 
 ## O que tem aqui
 - CLI interativo com menu (mínimo 6 opções de conversão)
