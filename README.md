@@ -39,4 +39,4 @@ Se você quiser usar outra API que exija chave, crie um arquivo `.env` ou export
 - Código organizado em `service`, `model` e `app`.
 
 ## Observações
-- Endpoints e políticas de APIs públicas podem mudar — neste projeto escolhemos `exchangerate.host` por ser simples e sem chave. Se preferir outra API (por exemplo ExchangeRate-API, Fixer, Currencylayer), posso adaptar o cliente facilmente.
+- Endpoints e políticas de APIs públicas podem mudar — neste projeto escolhemos `exchangerate.host` por ser simples e sem chave.
