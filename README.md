@@ -29,7 +29,6 @@ run.bat
 
 ## Configuração da API
 Por padrão o projeto usa `https://api.exchangerate.host` (sem necessidade de API key).
-Se você quiser usar outra API que exija chave, crie um arquivo `.env` ou exporte a variável `EXCHANGE_API_KEY` e `EXCHANGE_API_BASE_URL` antes de rodar.
 
 ## Funcionalidades
 - Menu com opções como: USD -> BRL, BRL -> USD, EUR -> BRL, BRL -> EUR, USD -> EUR e EUR -> USD (6 opções).
